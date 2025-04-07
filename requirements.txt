@@ -1,0 +1,12 @@
+# Core encryption and hashing
+pycryptodome==3.19.0
+
+# Optional: Use cryptography instead of charm-crypto if needed
+cryptography==42.0.5
+
+# If you are doing hashing only, hashlib is built-in (no need to install)
+
+# Optional: Add others if needed
+# flask==3.0.2              # If you're building a web app
+# numpy==1.26.4             # For general number handling
+# pandas==2.2.1             # For data handling if needed
