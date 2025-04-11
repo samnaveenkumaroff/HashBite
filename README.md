@@ -1,4 +1,3 @@
-# HashBite
 
 # 🔐 HashBite – Franchise-Grade AES Encryption for Text & Files
 
