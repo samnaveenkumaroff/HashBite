@@ -194,7 +194,8 @@ Apache 2.0 License
 ## 👨‍💻 Authors
 
 **Sam Naveenkumar V**  
-Email: [samnaveenkumaroff@gmail.com](mailto:samnaveenkumaroff@gmail.com)  
+Email: [samnaveenkumaroff@gmail.com](mailto:samnaveenkumaroff@gmail.com)
+Linkedin: [samnaveenkumaroff](https://www.linkedin.com/in/samnaveenkumaroff/)
 GitHub: [@samnaveenkumaroff](https://github.com/samnaveenkumaroff)
 
 
@@ -203,10 +204,8 @@ GitHub: [@samnaveenkumaroff](https://github.com/samnaveenkumaroff)
 ## 🙏 Acknowledgements
 
 - Karunya Institute of Technology and Sciences
-- Vaseegrah Veda Innovation Cell
 - Open Source Python Community
 - Streamlit & PyCryptodome Contributors
 
 ---
 
-Let me know if you'd like this in `README.md` format ready to paste or push!
