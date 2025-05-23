@@ -1,5 +1,7 @@
 
 # 🔐 HashBite – Franchise-Grade AES Encryption for Text & Files
+![HashBite](https://github.com/user-attachments/assets/dc0992a7-6743-4bd9-b644-cdb3d2ff86d4)
+
 
 ## 📦 Project Overview
 
